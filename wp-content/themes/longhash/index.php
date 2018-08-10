@@ -21,7 +21,7 @@
 
   <section id="topNews">
     <div class="inner">
-      <h2 class="hstyle01">NEWS</h2>
+      <h2 class="hstyle01">事業内容</h2>
       <div class="newsListWrap">
 <?php
 $args = array(
@@ -48,7 +48,7 @@ if ( $blog_posts->have_posts() ) :
     endif;
 ?>
           </a>
-          <p class="day"><?php the_time('Y.m.d'); ?></p>
+          <!-- <p class="day"><?php the_time('Y.m.d'); ?></p> -->
           <h1 class="ttl "><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
           <div>
             <?php the_excerpt(); ?>
@@ -60,14 +60,14 @@ if ( $blog_posts->have_posts() ) :
 ?>
 
       </div>
-      
-      <div class="btnWrap">
+
+      <!-- <div class="btnWrap">
         <a href="<?php echo home_url('/'); ?>news/" class="btn">MORE NEWS</a>
       </div>
-    </div>
+    </div> -->
   </section>
 
-  <section id="media">
+  <!-- <section id="media">
     <div class="inner">
       <h2 class="hstyle01">MEDIA</h2>
         <ul>
@@ -99,12 +99,12 @@ if ( $blog_posts->have_posts() ) :
 endif;
 ?>
       </ul>
-      
+
       <div class="btnWrap">
         <a href="<?php echo home_url('/'); ?>media/" class="btn">MORE LIST</a>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section id="company">
     <div class="bg">
@@ -175,7 +175,7 @@ endif;
           <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_01.png" alt="Mamoru Taniya">
           <p class="name">Mamoru Taniya<span>LONGHASH Japan 会長</span></p>
           <p>
-            ソロモン・ブラザーズでアジアトレーディング所長を務め、チューダー・キャピタル・ジャパン、あすかアセットマネジメント、マーキュリアインベストメント、D4V、ライフネットやマネーデザイン等を含む、多くのファンドやFin-techの企業を共同設立した。 また、グローバル・ファイナンシャル・シティ・トウキョウのアドバイザリーパネルのメンバーであり、東京のブロックチェーン促進者”ブロックチェーンビジネスキャンプ東京”のメイン創設者の一人。東京大学法学部1987年卒業。 
+            ソロモン・ブラザーズでアジアトレーディング所長を務め、チューダー・キャピタル・ジャパン、あすかアセットマネジメント、マーキュリアインベストメント、D4V、ライフネットやマネーデザイン等を含む、多くのファンドやFin-techの企業を共同設立した。 また、グローバル・ファイナンシャル・シティ・トウキョウのアドバイザリーパネルのメンバーであり、東京のブロックチェーン促進者”ブロックチェーンビジネスキャンプ東京”のメイン創設者の一人。東京大学法学部1987年卒業。
           </p>
         </section>
         <section class="officer">
