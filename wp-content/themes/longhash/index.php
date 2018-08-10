@@ -131,7 +131,7 @@ endif;
         <table>
           <tr>
             <th>社名</th>
-            <td>株式会社LONGHASH</td>
+            <td>株式会社Tokex</td>
           </tr>
           <tr>
             <th>本社所在地</th>
