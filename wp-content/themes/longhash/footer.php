@@ -18,7 +18,7 @@
         <?php endif; ?>
       </ul>
       <div class="logo">
-        <a href="#container"><img src="<?php echo get_template_directory_uri(); ?>/images/log_longhash.png" alt="LONGHASH"></a>
+        <a href="#container"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_20180306_v1.png" alt="Tokex"></a>
       </div>
       <ul class="nav02">
         <!-- <li><a href="http://www.longhash.com" target="_blank">LONGHASH.com（海外版）</a></li> -->

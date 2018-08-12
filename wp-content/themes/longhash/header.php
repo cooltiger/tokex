@@ -52,9 +52,9 @@
     <div class="headerWrap">
       <div class="inner">
       <?php if ( is_home() || is_front_page() ) : ?>
-      <div class="logo"><a href="#container"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex"></a></div>
+      <div class="logo"><a href="#container"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_20180306_v1.png" alt="Tokex" width = "" height = ""></a></div>
       <?php else : ?>
-      <div class="logo"><a href="<?php echo home_url('/'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex" width = "499" height = "100" ></a></div>
+      <div class="logo"><a href="<?php echo home_url('/'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_20180306_v1.png" alt="Tokex" width = "" height = "" ></a></div>
       <?php endif; ?>
 
       <ul class="sns">
