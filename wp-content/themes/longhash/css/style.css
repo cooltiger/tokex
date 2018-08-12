@@ -142,7 +142,7 @@ img {
 }
 
 .btnReturn {
-  background: #ccc; 
+  background: #ccc;
 }
 
 /*----------------------------------------------------- */
@@ -260,7 +260,7 @@ img {
   box-sizing: border-box;
   width: 100%;
   margin-top: 100px;
-  background: url(../images/bg_kv.png) center bottom no-repeat;
+  background: url(../images/tokex_pics_head.jpeg) center bottom no-repeat;
   background-size: cover;
   height: 720px;
   text-align: center;
@@ -270,16 +270,19 @@ img {
   font-weight: bold;
   font-size: 26px;
   margin-bottom: 30px;
+  color: #fff;
 }
 .kv h1 {
   font-weight: bold;
   font-size: 36px;
   margin-bottom: 40px;
   line-height: 1.6;
+  color: #fff;
 }
 .kv h1 + p {
   font-size: 16px;
   margin-bottom: 50px;
+  color: #fff;
 }
 .kv .logo {
   width: 200px;
@@ -525,14 +528,14 @@ img {
   border-radius: 4px;
 }
 
-.complete { 
-text-align: center; 
-} 
-.complete p { 
-margin-bottom: 30px;  
-} 
-.complete a { 
-text-decoration: underline; 
+.complete {
+text-align: center;
+}
+.complete p {
+margin-bottom: 30px;
+}
+.complete a {
+text-decoration: underline;
 }
 
 /*  footer           */
