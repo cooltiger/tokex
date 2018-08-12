@@ -13,8 +13,8 @@
         同時に、ブロックチェーン技術が様々な分野に導入され、実用化されていくことを目指して、<br class="pc">海外からも優れた人材と資本を日本に誘致することで、ブロックチェーンを推進していこうと考えています。
       </p>
       <div class="logo">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/log_longhash_02.png" alt="LONGHASH">
-        <p>IN BLOCKCHAIN WE TRUST</p>
+        <img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex">
+        <!-- <p>IN BLOCKCHAIN WE TRUST</p> -->
       </div>
     </div>
   </section>
