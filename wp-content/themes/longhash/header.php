@@ -52,40 +52,40 @@
     <div class="headerWrap">
       <div class="inner">
       <?php if ( is_home() || is_front_page() ) : ?>
-      <div class="logo"><a href="#container"><img src="<?php echo get_template_directory_uri(); ?>/images/log_longhash.png" alt="LONGHASH"></a></div>
+      <div class="logo"><a href="#container"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex"></a></div>
       <?php else : ?>
-      <div class="logo"><a href="<?php echo home_url('/'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/log_longhash.png" alt="LONGHASH"></a></div>
+      <div class="logo"><a href="<?php echo home_url('/'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex" width = "499" height = "100" ></a></div>
       <?php endif; ?>
 
       <ul class="sns">
         <li><a href="https://twitter.com/longhash_jp" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_tw.png" alt="twitter"></a></li>
         <li><a href="https://www.facebook.com/longhash.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_fb.png" alt="Facebook"></a></li>
       </ul>
-      <ul class="language">
-        <li><a href="http://longhash.co.jp/en/">EN</a></li>
-        <li>|</li>
-        <li class="current"><a href="<?php echo home_url('/'); ?>">日本語</a></li>
-      </ul>
-      <ul class="subNav">
-        <li><a href="http://longhash.co.jp/meetup/" target="_blank"><span>- NEW -</span>MEETUP</a></li>
-      </ul>
+      <!-- <ul class="language"> -->
+        <!-- <li><a href="http://longhash.co.jp/en/">EN</a></li> -->
+        <!-- <li>|</li> -->
+        <!-- <li class="current"><a href="<?php echo home_url('/'); ?>">日本語</a></li> -->
+      <!-- </ul> -->
+      <!-- <ul class="subNav"> -->
+        <!-- <li><a href="http://longhash.co.jp/meetup/" target="_blank"><span>- NEW -</span>MEETUP</a></li> -->
+      <!-- </ul> -->
       <div id="sideOpenBtn"><img src="<?php echo get_template_directory_uri(); ?>/images/btn_menu_sp.png" alt="MENU" ></div>
       </div>
-      
+
     </div>
 
     <div class="navWrap">
       <div class="inner">
         <ul>
           <?php if ( is_home() || is_front_page() ) : ?>
-          <li><a href="#topNews">NEWS</a></li>
-          <li><a href="#media">MEDIA</a></li>
+          <li><a href="#topNews">事業内容</a></li>
+          <!-- <li><a href="#media">MEDIA</a></li> -->
           <li><a href="#company">COMPANY</a></li>
           <li><a href="#careers">CAREERS</a></li>
           <li><a href="#contact">CONTACT</a></li>
           <?php else : ?>
-          <li><a href="<?php echo home_url('/'); ?>#topNews">NEWS</a></li>
-          <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li>
+          <li><a href="<?php echo home_url('/'); ?>#topNews">事業内容</a></li>
+          <!-- <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li> -->
           <li><a href="<?php echo home_url('/'); ?>#company">COMPANY</a></li>
           <li><a href="<?php echo home_url('/'); ?>#careers">CAREERS</a></li>
           <li><a href="<?php echo home_url('/'); ?>#contact">CONTACT</a></li>
@@ -95,10 +95,3 @@
     </div>
 
   </header>
-
-
-
-
-
-
-
