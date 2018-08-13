@@ -235,16 +235,24 @@ endif;
     <!-- <div class="inner"> -->
       <!-- <h2 class="hstyle01">Member</h2> -->
       <div class="officerWrap">
-      <section class="officer">
+      <!-- <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_01.png" alt="Mamoru Taniya">
         <p class="name">Mamoru Taniya<span>LONGHASH Japan 会長</span></p>
         <p>
           ソロモン・ブラザーズでアジアトレーディング所長を務め、チューダー・キャピタル・ジャパン、あすかアセットマネジメント、マーキュリアインベストメント、D4V、ライフネットやマネーデザイン等を含む、多くのファンドやFin-techの企業を共同設立した。 また、グローバル・ファイナンシャル・シティ・トウキョウのアドバイザリーパネルのメンバーであり、東京のブロックチェーン促進者”ブロックチェーンビジネスキャンプ東京”のメイン創設者の一人。東京大学法学部1987年卒業。
         </p>
+      </section> -->
+      <section class="officer">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_04.png" alt="Yanfeng Chen">
+        <p class="name">Yanfeng Chen<span>TOKEX Japan 代表取締役社長</span></p>
+        <p>
+          ハードウェアの仮想トークンウォーレットシステムNebulaの創業者、ICOAGE(かつて中国最大のICOプラットフォーム)とCybex(分散型取引所）の共同創業者。米国National Instrumentsの中国西部支社のCEO, Juxing Instrumentsの共同創業者でもある。ブロックチェーン技術に精通し、ハードウェアとソフトウェア開発両方に専門知識があり、特にネットワークセキュリティーを得意とする。上海交通大学　電子工学修士。
+        </p>
       </section>
+     
       <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_02.png" alt="Chris Dai">
-        <p class="name">Chris Dai<span>LONGHASH Japan 代表取締役社長</span></p>
+        <p class="name">Chris Dai<span>TOKEX Japan 取締役</span></p>
         <p>
           中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメントと科学工学のB.A.を取得。
         </p>
@@ -256,13 +264,6 @@ endif;
           ICOAGE(かつて中国最大のICOプラットフォーム)とChainB（中国最大のブロックチェーンメディア）の創始者。2012年から中国のブロックチェーン産業のリーダーとなり、暗号通貨の伝道師、さらにはKOL(Key Opinion Leader）いわゆる中国版インフルエンサー。膨大なる数のブロックチェーン関連記事やホワイトペーパーの中国語への翻訳にも貢献。そして、多くのブロックチェーンの著書を出版（ "The Blockchain Society"、"ブロックチェーン - ニューエコノミーの設計図 "、"暗号通貨 "）。
         </p>
       </section> -->
-      <section class="officer">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_04.png" alt="Yanfeng Chen">
-        <p class="name">Yanfeng Chen<span>LONGHASH Japan取締役 / LONGHASH Co-founder</span></p>
-        <p>
-          ハードウェアの仮想トークンウォーレットシステムNebulaの創業者、ICOAGE(かつて中国最大のICOプラットフォーム)とCybex(分散型取引所）の共同創業者。米国National Instrumentsの中国西部支社のCEO, Juxing Instrumentsの共同創業者でもある。ブロックチェーン技術に精通し、ハードウェアとソフトウェア開発両方に専門知識があり、特にネットワークセキュリティーを得意とする。上海交通大学　電子工学修士。
-        </p>
-      </section>
       <!-- <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_05.png" alt="Emily Parker">
         <p class="name">Emily Parker<span>LONGHASH Co-founder<br class="pc"><br class="pc"></span></p>
