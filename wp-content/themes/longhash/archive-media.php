@@ -21,7 +21,7 @@ if ( $blog_posts->have_posts() ) :
     $blog_posts->the_post();
 ?>
         <li>
-          <p class="date"><?php the_time('Y.m.d'); ?></p>
+          <!-- <p class="date"><?php the_time('Y.m.d'); ?></p> -->
           <div>
             <p><?php the_title(); ?></p>
             <?php the_content(); ?>
