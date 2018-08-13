@@ -131,7 +131,7 @@ endif;
         <table>
           <tr>
             <th>社名</th>
-            <td>株式会社 Tokex</td>
+            <td>株式会社 TOKEX</td>
           </tr>
           <tr>
             <th>本社所在地</th>
@@ -139,11 +139,11 @@ endif;
           </tr>
           <tr>
             <th>代表者</th>
-            <td>代表取締役社長　Chris Dai</td>
+            <td>代表取締役社長　陈彦丰</td>
           </tr>
           <tr>
             <th>設立</th>
-            <td>2018年2月16日<div id="map"></div></td>
+            <td>2018年5月<div id="map"></div></td>
           </tr>
           <!--
           <tr>
@@ -153,7 +153,7 @@ endif;
           -->
           <tr>
             <th>業務内容</th>
-            <td>メディア事業　インターネット広告事業　ビッグデータ事業　投資育成事業</td>
+            <td>メディア事業　ビッグデータ事業　コンサルティング　デジタルデバイス販売</td>
           </tr>
         </table>
       </section>
