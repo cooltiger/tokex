@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
   <section class="subTtl">
-    <h1 class="hstyle01">NEWS</h1>
+    <h1 class="hstyle01">事業内容</h1>
   </section>
 
   <section id="topNews">
@@ -33,7 +33,7 @@ if ( $blog_posts->have_posts() ) :
     endif;
 ?>
           </a>
-          <p class="day"><?php the_time('Y.m.d'); ?></p>
+          <!-- <p class="day"><?php the_time('Y.m.d'); ?></p> -->
           <h1 class="ttl "><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
           <div>
             <?php the_excerpt(); ?>
