@@ -13,7 +13,7 @@
         同時に、ブロックチェーン技術が様々な分野に導入され、実用化されていくことを目指して、<br class="pc">海外からも優れた人材と資本を日本に誘致することで、ブロックチェーンを推進していこうと考えています。
       </p>
       <div class="logo">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex">
+        <!-- <img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex"> -->
         <!-- <p>IN BLOCKCHAIN WE TRUST</p> -->
       </div>
     </div>
@@ -21,7 +21,7 @@
 
   <section id="topNews">
     <div class="inner">
-      <h2 class="hstyle01">事業内容</h2>
+      <h2 class="hstyle01">SERVICE</h2>
       <div class="newsListWrap">
 <?php
 $args = array(
@@ -249,13 +249,13 @@ endif;
           中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメントと科学工学のB.A.を取得。
         </p>
       </section>
-      <section class="officer">
+      <!-- <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_03.png" alt="James Gong">
         <p class="name">James Gong<span>LONGHASH Japan取締役 / LONGHASH Co-founder</span></p>
         <p>
           ICOAGE(かつて中国最大のICOプラットフォーム)とChainB（中国最大のブロックチェーンメディア）の創始者。2012年から中国のブロックチェーン産業のリーダーとなり、暗号通貨の伝道師、さらにはKOL(Key Opinion Leader）いわゆる中国版インフルエンサー。膨大なる数のブロックチェーン関連記事やホワイトペーパーの中国語への翻訳にも貢献。そして、多くのブロックチェーンの著書を出版（ "The Blockchain Society"、"ブロックチェーン - ニューエコノミーの設計図 "、"暗号通貨 "）。
         </p>
-      </section>
+      </section> -->
       <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_04.png" alt="Yanfeng Chen">
         <p class="name">Yanfeng Chen<span>LONGHASH Japan取締役 / LONGHASH Co-founder</span></p>
@@ -263,7 +263,7 @@ endif;
           ハードウェアの仮想トークンウォーレットシステムNebulaの創業者、ICOAGE(かつて中国最大のICOプラットフォーム)とCybex(分散型取引所）の共同創業者。米国National Instrumentsの中国西部支社のCEO, Juxing Instrumentsの共同創業者でもある。ブロックチェーン技術に精通し、ハードウェアとソフトウェア開発両方に専門知識があり、特にネットワークセキュリティーを得意とする。上海交通大学　電子工学修士。
         </p>
       </section>
-      <section class="officer">
+      <!-- <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_05.png" alt="Emily Parker">
         <p class="name">Emily Parker<span>LONGHASH Co-founder<br class="pc"><br class="pc"></span></p>
         <p>
@@ -283,7 +283,7 @@ endif;
         <p>
           元ETF Director、Deutsche Bank AsiaでのChina Risk trading、ETFのVPおよびCitigroup AsiaのEquity derivatives trading、Credit SuisseのEquity derivatives proprietary trading のVice President。 世界の金融市場やデリバティブ取引に精通しており、ETFやその他の革新的な金融商品について深い理解がある。2003年と2005年にスタンフォード大学の電気工学部でB.S.およびM.S.を取得。
         </p>
-      </section>
+      </section> -->
       </div>
   </div>
   </section>

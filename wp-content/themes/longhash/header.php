@@ -16,7 +16,7 @@
 <meta property="og:site_name"  content="株式会社LONGHASH | ブロックチェーンによって人と情報とお金をつなぎ革新的な信頼社会を目指す。"/>
 <meta property="og:description" content="ブロックチェーンがもたらす本来のビジネスモデルと経済圏の革新をもっと世間に知ってもらいたいと考えており、ブロックチェーンのあるべき姿を、規制を作っていく政府も交えて、世の中にブロックチェーンの本当の素晴らしさと可能性を伝えていきます。"/>
 
-<link rel="shortcut icon"  href="<?php echo get_template_directory_uri(); ?>/images/favicon.ico">
+<!-- <link rel="shortcut icon"  href="<?php echo get_template_directory_uri(); ?>/images/favicon.ico"> -->
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/MyFontsWebfontsKit.css">
 <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/reset.css">
 <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
@@ -78,13 +78,13 @@
       <div class="inner">
         <ul>
           <?php if ( is_home() || is_front_page() ) : ?>
-          <li><a href="#topNews">事業内容</a></li>
+          <li><a href="#topNews">SERVICE</a></li>
           <!-- <li><a href="#media">MEDIA</a></li> -->
           <li><a href="#company">COMPANY</a></li>
           <li><a href="#careers">MEMBER</a></li>
           <li><a href="#contact">CONTACT</a></li>
           <?php else : ?>
-          <li><a href="<?php echo home_url('/'); ?>#topNews">事業内容</a></li>
+          <li><a href="<?php echo home_url('/'); ?>#topNews">SERVICE</a></li>
           <!-- <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li> -->
           <li><a href="<?php echo home_url('/'); ?>#company">COMPANY</a></li>
           <li><a href="<?php echo home_url('/'); ?>#careers">MEMBER</a></li>
