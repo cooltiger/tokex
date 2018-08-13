@@ -57,10 +57,10 @@
       <div class="logo"><a href="<?php echo home_url('/'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_20180306_v1.png" alt="Tokex" width = "" height = "" ></a></div>
       <?php endif; ?>
 
-      <ul class="sns">
+      <!-- <ul class="sns">
         <li><a href="https://twitter.com/longhash_jp" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_tw.png" alt="twitter"></a></li>
         <li><a href="https://www.facebook.com/longhash.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_fb.png" alt="Facebook"></a></li>
-      </ul>
+      </ul> -->
       <!-- <ul class="language"> -->
         <!-- <li><a href="http://longhash.co.jp/en/">EN</a></li> -->
         <!-- <li>|</li> -->
@@ -81,13 +81,13 @@
           <li><a href="#topNews">事業内容</a></li>
           <!-- <li><a href="#media">MEDIA</a></li> -->
           <li><a href="#company">COMPANY</a></li>
-          <li><a href="#careers">CAREERS</a></li>
+          <li><a href="#careers">MEMBER</a></li>
           <li><a href="#contact">CONTACT</a></li>
           <?php else : ?>
           <li><a href="<?php echo home_url('/'); ?>#topNews">事業内容</a></li>
           <!-- <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li> -->
           <li><a href="<?php echo home_url('/'); ?>#company">COMPANY</a></li>
-          <li><a href="<?php echo home_url('/'); ?>#careers">CAREERS</a></li>
+          <li><a href="<?php echo home_url('/'); ?>#careers">MEMBER</a></li>
           <li><a href="<?php echo home_url('/'); ?>#contact">CONTACT</a></li>
           <?php endif; ?>
         </ul>
