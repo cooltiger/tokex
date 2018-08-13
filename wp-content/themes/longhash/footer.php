@@ -6,14 +6,14 @@
         <li><a href="#topNews">事業内容</a></li>
         <!-- <li><a href="#media">MEDIA</a></li> -->
         <li><a href="#company">COMPANY</a></li>
-        <li><a href="#careers">CAREERS</a></li>
+        <li><a href="#careers">MEMBER</a></li>
         <li><a href="#contact">CONTACT</a></li>
         <?php else : ?>
         <li><a href="<?php echo home_url('/'); ?>#container">TOP</a></li>
         <li><a href="<?php echo home_url('/'); ?>#topNews">事業内容</a></li>
         <!-- <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li> -->
         <li><a href="<?php echo home_url('/'); ?>#company">COMPANY</a></li>
-        <li><a href="<?php echo home_url('/'); ?>#careers">CAREERS</a></li>
+        <li><a href="<?php echo home_url('/'); ?>#careers">MEMBER</a></li>
         <li><a href="<?php echo home_url('/'); ?>#contact">CONTACT</a></li>
         <?php endif; ?>
       </ul>
@@ -26,10 +26,10 @@
         <li><a href="<?php echo home_url('/'); ?>privacy">PRIVACY POLICY</a></li>
         <li><a href="<?php echo home_url('/'); ?>tos">利用規約</a></li>
       </ul>
-      <ul class="sns">
+      <!-- <ul class="sns">
         <li><a href="https://twitter.com/longhash_jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_tw.png" alt="twitter"></a></li>
         <li><a href="https://www.facebook.com/longhash.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_fb.png" alt="Facebook"></a></li>
-      </ul>
+      </ul> -->
       <p class="copyright">© 2018 LONGHASH. All rights reserved.</p>
     </div>
   </footer>
@@ -42,9 +42,9 @@
     <li><a href="<?php echo home_url('/'); ?>#topNews">事業内容</a></li>
     <!-- <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li> -->
     <li><a href="<?php echo home_url('/'); ?>#company">COMPANY</a></li>
-    <li><a href="<?php echo home_url('/'); ?>#careers">CAREERS</a></li>
+    <li><a href="<?php echo home_url('/'); ?>#careers">MEMBER</a></li>
     <li><a href="<?php echo home_url('/'); ?>#contact">CONTACT</a></li>
-    <li><a href="http://longhash.co.jp/meetup/" target="_blank" class="meetup"><span>- NEW -</span>MEETUP</a></li>
+    <!-- <li><a href="http://longhash.co.jp/meetup/" target="_blank" class="meetup"><span>- NEW -</span>MEETUP</a></li> -->
   </ul>
   <ul class="subNav">
     <!-- <li><a href="http://www.longhash.com" target="_blank">LONGHASH.com（海外版）</a></li> -->
@@ -52,10 +52,10 @@
     <li><a href="<?php echo home_url('/'); ?>privacy">PRIVACY POLICY</a></li>
     <li><a href="<?php echo home_url('/'); ?>tos">利用規約</a></li>
   </ul>
-  <ul class="sns">
+  <!-- <ul class="sns">
     <li><a href="https://twitter.com/longhash_jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_tw.png" alt="twitter"></a></li>
     <li><a href="https://www.facebook.com/longhash.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_fb.png" alt="Facebook"></a></li>
-  </ul>
+  </ul> -->
 </nav>
 <?php wp_footer(); ?>
 </body>
