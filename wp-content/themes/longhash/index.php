@@ -116,7 +116,7 @@ endif;
           <iframe src="https://www.youtube.com/embed/zS67Sl4rwHI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
       </div> -->
-
+<!-- 
       <section class="greeting">
         <h3 class="hstyle02">代表挨拶</h3>
         <p >
@@ -125,7 +125,7 @@ endif;
         </p>
         <p class="president">Chris Dai</p>
       </section>
-
+ -->
       <section class="overview">
         <h3 class="hstyle02">企業概要</h3>
         <table>
