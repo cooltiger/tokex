@@ -30,7 +30,7 @@
         <li><a href="https://twitter.com/longhash_jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_tw.png" alt="twitter"></a></li>
         <li><a href="https://www.facebook.com/longhash.jp/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/ico_fb.png" alt="Facebook"></a></li>
       </ul> -->
-      <p class="copyright">© 2018 LONGHASH. All rights reserved.</p>
+      <p class="copyright">© 2018 TOKEX. All rights reserved.</p>
     </div>
   </footer>
 
