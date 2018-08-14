@@ -12,10 +12,10 @@ if ( have_posts() ) :
   <section class="sub">
     <div class="inner">
       <?php the_content(); ?>
-      <p class="day"><?php the_time('Y.m.d'); ?></p>
+      <!-- <p class="day"><?php the_time('Y.m.d'); ?></p> -->
       <ul class="pager">
         <li><?php previous_post_link('%link', '&lt; PERV'); ?></li>
-        <li><a href="<?php echo home_url('/'); ?>news/">事業内容</a></li>
+        <li><a href="<?php echo home_url('/'); ?>#topNews">TOPページ</a></li>
         <li><?php next_post_link('%link', 'NEXT  &gt;'); ?></li>
       </ul>
     </div>
