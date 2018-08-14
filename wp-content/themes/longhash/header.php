@@ -81,13 +81,13 @@
           <li><a href="#topNews">SERVICE</a></li>
           <!-- <li><a href="#media">MEDIA</a></li> -->
           <li><a href="#company">COMPANY</a></li>
-          <li><a href="#careers">MEMBER</a></li>
+          <li><a href="#member">MEMBER</a></li>
           <li><a href="#contact">CONTACT</a></li>
           <?php else : ?>
           <li><a href="<?php echo home_url('/'); ?>#topNews">SERVICE</a></li>
           <!-- <li><a href="<?php echo home_url('/'); ?>#media">MEDIA</a></li> -->
           <li><a href="<?php echo home_url('/'); ?>#company">COMPANY</a></li>
-          <li><a href="<?php echo home_url('/'); ?>#careers">MEMBER</a></li>
+          <li><a href="<?php echo home_url('/'); ?>#member">MEMBER</a></li>
           <li><a href="<?php echo home_url('/'); ?>#contact">CONTACT</a></li>
           <?php endif; ?>
         </ul>
