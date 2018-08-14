@@ -27,6 +27,8 @@
 $args = array(
   'post_type'      => 'post',
   'posts_per_page' => 3,
+  'orderby' =>  'ID',//キーの指定
+	'order' =>  'ASC',//並び順の指定
 );
 $blog_posts = new WP_Query( $args );
 if ( $blog_posts->have_posts() ) :
