@@ -229,7 +229,10 @@ endif;
   </div><!-- bg -->
   </section>
 
-  <section id="member">
+  <section id="member">&nbsp;
+  </section>
+
+  <section id="company">
     <!-- <div class="bg"> -->
     <div class="inner">
       <h2 class="hstyle01">Member</h2>
