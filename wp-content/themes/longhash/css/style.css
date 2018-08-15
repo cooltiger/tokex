@@ -984,7 +984,7 @@ img.alignright {
     display: block;
     height: 50px;
     line-height: 50px;
-    color: #c70e71;
+    color: #000000;
     font-size: 16px;
     padding-left: 15px;
   }
@@ -992,7 +992,7 @@ img.alignright {
     display: block;
     height: 50px;
     line-height: 1.1;
-    color: #c70e71;
+    color: #000000;
     font-size: 16px;
     padding-left: 15px;
     font-weight: bold;
