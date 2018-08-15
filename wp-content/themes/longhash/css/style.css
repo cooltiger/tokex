@@ -132,7 +132,7 @@ img {
   width: 180px;
   height: 40px;
   line-height: 40px;
-  background: url(../images/ico_arrow_01.png) 92% center no-repeat #c70e71;
+  background: url(../images/ico_arrow_01.png) 92% center no-repeat #00B9E1;
   background-size: 7px;
   color: #fff;
   text-align: center;
@@ -512,7 +512,7 @@ img {
   display: inline-block;
   color: #fff;
   font-weight: normal;
-  background: #c70e71;
+  background: #00B9E1;
   font-size: 9px;
   line-height: 26px;
   height: 26px;
