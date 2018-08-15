@@ -141,7 +141,7 @@ endif;
           </tr>
           <tr>
             <th>代表者</th>
-            <td>代表取締役社長　陈彦丰</td>
+            <td>代表取締役社長　Yanfeng Chen</td>
           </tr>
           <tr>
             <th>設立</th>
