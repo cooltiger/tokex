@@ -221,7 +221,7 @@ img {
   justify-content: space-between;
 }
 #header .current a {
-  color: #c70e71;
+  color: #00B9E1;
 }
 #header .sns {
   float: right;
@@ -314,7 +314,7 @@ img {
   overflow: hidden;
 }
 #topNews .newsList .day {
-  color: #c70e71;
+  color: #00B9E1;
 }
 #topNews .newsList .ttl a {
   display: block;
@@ -350,7 +350,7 @@ img {
 }
 
 #media li a {
-  color: #c70e71;
+  color: #00B9E1;
   padding-left: 15px;
   position: relative;
 }
@@ -362,8 +362,8 @@ img {
   width: 6px;
   height: 6px;
   margin-top: -5px;
-  border-bottom: 2px solid #c70e71;
-  border-right: 2px solid #c70e71;
+  border-bottom: 2px solid #00B9E1;
+  border-right: 2px solid #00B9E1;
   transform: rotate(-45deg);
   content: '';
 }
@@ -597,7 +597,7 @@ text-decoration: underline;
   height: auto;
 }
 .sub .day {
-  color: #c70e71;
+  color: #00B9E1;
   margin-bottom: 80px;
 }
 .sub .contents {
@@ -651,7 +651,7 @@ text-decoration: underline;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background-color: #c70e71;
+  background-color: #00B9E1;
 }
 
 /* 画像配置 左 */
